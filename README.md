@@ -8,4 +8,4 @@ https://play.google.com/store/apps/details?id=com.calsignlabs.apde
 
 Open the APDE app and open the Live Wallpaper project of your choice and hit the Play button to install.
 
-These Live Wallpapers are released under the GNU General Public License and is free for you configure and customize to your own tastes, they are well documented and may require you to learn the basics of Java and Processing programming for full customizability.
+These Live Wallpapers are released under the GNU General Public License and is free for you to configure and customize to your own tastes, they are well documented and may require you to learn the basics of Java and Processing programming for full customizability.
